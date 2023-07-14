@@ -1,0 +1,237 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.web{
+    font-family: 'Raleway', sans-serif;
+    color: #2196f3;
+}
+.web2{
+    font-family: 'Raleway', sans-serif;
+    color: #2196f3;
+    letter-spacing: 0.78px; 
+}
+.logo{
+    color:black;
+    font-weight:700;
+    font-size: 26px;
+    line-height:1.5;
+    text-decoration: none;
+    letter-spacing: 0.78px; 
+}
+.logo_2{
+    color:white;
+    font-weight:700;
+    font-size: 26px;
+    line-height:1.5;
+    text-decoration: none;
+    letter-spacing: 0.78px; 
+}
+.nav_link{
+    color:black;
+    font-size: 14px;
+    font-weight:500;
+    line-height:1.1;
+    text-decoration: none;
+    letter-spacing: 0.28px; 
+}
+.nav_link:focus,
+.nav_link:hover{
+    color: #2196f3;
+}
+.active{
+    color:#2196f3;
+    font-size:14px;
+    font-weight:500;
+    line-height:1.1;
+    text-decoration: none;
+    letter-spacing: 0.28px; 
+}
+.contact{
+    color:#757575;
+    font-size: 14px;
+    font-weight:500;
+    line-height:1.1;
+    text-decoration: none;
+    letter-spacing: 0.28px; 
+}
+.contact:hover,
+.contact:focus{
+    color: #2196f3;
+}
+.nav{
+    list-style-type: none;
+}
+.list{
+    list-style-type: none;
+}
+.hero .title{
+    max-width:1600px;
+    text-align: center;
+    font-size:44px;
+    font-weight:900;
+    line-height:1.3;
+    color: white;
+    letter-spacing: 2.64px; 
+}
+.info .subtitle{
+    text-align: left;
+    font-size:14px;
+    font-weight:700;
+    line-height:1.1;
+    letter-spacing: 0.42px; 
+}
+.list .desc{
+    text-align: left;
+    color:#757575;
+    font-size:14px;
+    font-weight:400;
+    line-height:1.7;
+    letter-spacing: 0.42px; 
+}
+.progect .title{
+    text-align: center;
+    font-size:36px;
+    font-weight:700;
+    line-height:1.1;
+    letter-spacing: 1.08px; 
+}   
+.buy{
+    width: 216px;
+    height:50px;
+    font-size:16px;
+    font-weight:700;
+    color: #FFFFFF;
+    background:#757575;
+    letter-spacing: 0.96px; 
+}
+.buy:hover,
+.buy:focus{
+    background:#2196f3;
+}
+.hero{
+    background: #2F303A;
+}
+.info .title{
+    display: none;
+}
+.progect .list{
+    list-style-type: none;
+}
+.progect .img{
+    width:370px;
+    height:294px;
+}
+.teamtitle{
+    text-align: center;
+    font-size:36px;
+    font-weight:700;
+    line-height:1.1;
+    letter-spacing: 1.08px; 
+}
+.team{
+    background: #F5F4FA;
+}
+.team .list__team{
+    list-style-type: none;
+}
+.team .img{
+    width:270px;
+    height:260px;
+}
+.team .item{
+    width: 270px;
+    height:368px;
+}
+.team .subtitle{
+    text-align: center;
+    font-size:16px;
+    font-weight:500;
+    line-height:1.1;
+    letter-spacing: 0.48px; 
+}
+.team .desc{
+    text-align: center;
+    font-size:16px;
+    font-weight:400;
+    line-height:1.1;
+    color:#757575;
+    letter-spacing: 0.48px; 
+}
+footer{
+    background: #2F303A;
+}
+address .list{
+    list-style-type: none;
+    
+}
+address .item{
+    font-size:14px;
+    font-weight:400;
+    line-height:1.7;
+    color: #FFFFFF;
+    text-decoration: none;   
+    letter-spacing: 0.42px; 
+    font-family: 'Roboto', sans-serif;
+}
+address .item:hover,
+address .item:focus{
+    color: #2196f3;
+}
+address .item_1{
+    font-size:14px;
+    font-weight:400;
+    line-height:1.7;
+    color: rgb(255, 255, 255, 60%);
+    text-decoration: none;  
+    letter-spacing: 0.42px;
+    font-family: 'Roboto', sans-serif;  
+}
+address .item_1:hover,
+address .item_1:focus{
+    color: #2196f3;
+}
+.menu .list{
+    list-style-type:none;
+}
+.menu .item{
+    height:38px;
+    background: #F5F4FA;
+    font-size:16px;
+    font-weight:500;
+    line-height:1.6;
+    letter-spacing: 0.48px; 
+}
+
+.menu .item:focus,
+.menu .item:hover{
+    background:#2196f3;
+    color:white;
+}
+.menu .list__card{
+    list-style-type: none;
+}
+.list__card .title{
+    text-align: left;
+    font-size:18px;
+    font-weight:700;
+    line-height:2;
+    letter-spacing: 1.08px; 
+}
+.list__card .desc{
+    text-align: left;
+    font-size:16px;
+    font-weight:400;
+    line-height:1.8;
+    color:#757575;
+    letter-spacing: 0.48px; 
+}
+.list__card .img{
+    width:370px;
+    height:294px;
+}
+.list__card .item{
+    width:370px;
+    height:404px;
+    text-align:left;
+}
